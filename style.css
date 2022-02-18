@@ -5,9 +5,9 @@
 .pag {
     min-width: 50%;
     padding: 0px;
-    margin: 50px 25% 0px;
+    margin: 40px 25% 0px;
     background-color: rgba(43, 43, 54, 0);
-    border-radius: 60px;
+    border-radius: 30px;
     z-index: 1;
 }
 
@@ -15,43 +15,43 @@
     transition-duration: 0.5s;
     min-width: 50%;
     padding: 0px;
-    margin: 50px 25% 0px;
-    background-color: rgb(26, 15, 0);
-    border-radius: 60px;
+    margin: 40px 25% 0px;
+    background-color: rgb(117, 68, 21);
+    border-radius: 30px;
     z-index: 1;
 }
 
 .border_style_solid_pag {
     border: 1px solid #7a4500;
-    border-radius: 60px;
+    border-radius: 30px;
     z-index: 1;
-    animation: neon 30s infinite;
+    animation: neon 10s infinite;
 }
 
 @keyframes neon {
     0% {
-        box-shadow: 0px 0px 0px 3px rgba(145, 87, 0, 0.5), inset 0px 0px 0px 2px rgba(119, 64, 0, 0.616), 0px 0px 60px 2px rgba(139, 56, 0, 0.527), inset 0px 0px 10px 4px rgba(134, 49, 0, 0.555);
+        box-shadow: 0px 0px 0px 3px rgba(145, 87, 0, 0.0), inset 0px 0px 0px 2px rgba(119, 64, 0, 0.0), 0px 0px 60px 2px rgba(139, 56, 0, 0.0), inset 0px 0px 10px 4px rgba(134, 49, 0, 0.0);
     }
     25% {
-        box-shadow: 0px 0px 0px 3px rgba(160, 96, 0, 0.568), inset 0px 0px 0px 2px rgba(255, 136, 0, 0.466), 0px 0px 60px 1px rgba(201, 80, 0, 0.514), inset 0px 0px 10px 4px rgba(216, 79, 0, 0.795);
+        box-shadow: 0px 0px 0px 3px rgba(160, 96, 0, 0.4), inset 0px 0px 0px 2px rgba(255, 136, 0, 0.4), 0px 0px 60px 1px rgba(201, 80, 0, 0.4), inset 0px 0px 10px 4px rgba(216, 79, 0, 0.4);
     }
     50% {
-        box-shadow: 0px 0px 0px 3px rgba(160, 96, 0, 0.507), inset 0px 0px 0px 2px rgba(255, 136, 0, 0.418), 0px 0px 60px 1px rgba(156, 62, 0, 0.582), inset 0px 0px 10px 4px rgba(216, 79, 0, 0.795);
+        box-shadow: 0px 0px 0px 3px rgba(160, 96, 0, 0.8), inset 0px 0px 0px 2px rgba(255, 136, 0, 0.8), 0px 0px 60px 1px rgba(156, 62, 0, 0.8), inset 0px 0px 10px 4px rgba(216, 79, 0, 0.8);
     }
     75% {
-        box-shadow: 0px 0px 0px 3px rgba(160, 96, 0, 0.493), inset 0px 0px 0px 2px rgba(255, 136, 0, 0.432), 0px 0px 60px 1px rgba(175, 70, 0, 0.555), inset 0px 0px 10px 4px rgba(216, 79, 0, 0.795);
+        box-shadow: 0px 0px 0px 3px rgba(160, 96, 0, 0.4), inset 0px 0px 0px 2px rgba(255, 136, 0, 0.4), 0px 0px 60px 1px rgba(175, 70, 0, 0.4), inset 0px 0px 10px 4px rgba(216, 79, 0, 0.4);
     }
     100% {
-        box-shadow: 0px 0px 0px 3px rgba(160, 96, 0, 0.548), inset 0px 0px 0px 2px rgba(255, 136, 0, 0.411), 0px 0px 60px 1px rgba(148, 59, 0, 0.514), inset 0px 0px 10px 4px rgba(216, 79, 0, 0.795);
+        box-shadow: 0px 0px 0px 3px rgba(160, 96, 0, 0.0), inset 0px 0px 0px 2px rgba(255, 136, 0, 0.0), 0px 0px 60px 1px rgba(148, 59, 0, 0.0), inset 0px 0px 10px 4px rgba(216, 79, 0, 0.0);
     }
 }
 
 .pag1 {
     min-width: 50%;
     padding: 0px;
-    margin: 50px 25% 0px;
+    margin: 40px 25% 0px;
     background-color: rgba(43, 43, 54, 0);
-    border-radius: 60px;
+    border-radius: 30px;
     z-index: 1;
 }
 
@@ -59,43 +59,43 @@
     transition-duration: 0.5s;
     min-width: 50%;
     padding: 0px;
-    margin: 50px 25% 0px;
+    margin: 40px 25% 0px;
     background-color: #0069ff;
-    border-radius: 60px;
+    border-radius: 30px;
     z-index: 1;
 }
 
 .border_style_solid_pag1 {
     border: 1px solid #3400c2;
-    border-radius: 60px;
+    border-radius: 30px;
     z-index: 1;
-    animation: neon1 30s infinite;
+    animation: neon1 10s infinite;
 }
 
 @keyframes neon1 {
     0% {
-        box-shadow: 0px 0px 0px 3px rgba(75, 35, 255, 0.582), inset 0px 0px 0px 2px rgba(76, 0, 255, 0.548), 0px 0px 60px 1px rgba(68, 0, 177, 0.479), inset 0px 0px 10px 3px rgba(76, 0, 255, 0.603);
+        box-shadow: 0px 0px 0px 3px rgba(75, 35, 255, 0.0), inset 0px 0px 0px 2px rgba(76, 0, 255, 0.0), 0px 0px 60px 1px rgba(68, 0, 177, 0.0), inset 0px 0px 10px 3px rgba(76, 0, 255, 0.0);
     }
     25% {
-        box-shadow: 0px 0px 0px 3px rgba(73, 60, 255, 0.733), inset 0px 0px 0px 2px rgba(65, 22, 255, 0.562), 0px 0px 60px 1px rgba(56, 0, 187, 0.527), inset 0px 0px 10px 3px rgba(55, 0, 255, 0.61);
+        box-shadow: 0px 0px 0px 3px rgba(73, 60, 255, 0.4), inset 0px 0px 0px 2px rgba(65, 22, 255, 0.4), 0px 0px 60px 1px rgba(56, 0, 187, 0.4), inset 0px 0px 10px 3px rgba(55, 0, 255, 0.4);
     }
     50% {
-        box-shadow: 0px 0px 0px 3px rgba(69, 55, 255, 0.733), inset 0px 0px 0px 2px rgba(64, 21, 255, 0.562), 0px 0px 60px 1px rgba(52, 0, 172, 0.63), inset 0px 0px 10px 3px rgba(55, 0, 255, 0.616);
+        box-shadow: 0px 0px 0px 3px rgba(69, 55, 255, 0.6), inset 0px 0px 0px 2px rgba(64, 21, 255, 0.6), 0px 0px 60px 1px rgba(52, 0, 172, 0.6), inset 0px 0px 10px 3px rgba(55, 0, 255, 0.6);
     }
     75% {
-        box-shadow: 0px 0px 0px 3px rgba(80, 68, 255, 0.733), inset 0px 0px 0px 2px rgba(70, 29, 255, 0.568), 0px 0px 60px 1px rgba(52, 0, 172, 0.637), inset 0px 0px 10px 3px rgba(55, 0, 255, 0.562);
+        box-shadow: 0px 0px 0px 3px rgba(80, 68, 255, 0.4), inset 0px 0px 0px 2px rgba(70, 29, 255, 0.4), 0px 0px 60px 1px rgba(52, 0, 172, 0.4), inset 0px 0px 10px 3px rgba(55, 0, 255, 0.4);
     }
     100% {
-        box-shadow: 0px 0px 0px 3px rgba(80, 68, 255, 0.733), inset 0px 0px 0px 2px rgba(71, 30, 255, 0.514), 0px 0px 60px 1px rgba(55, 0, 185, 0.61), inset 0px 0px 10px 3px rgba(55, 0, 255, 0.575);
+        box-shadow: 0px 0px 0px 3px rgba(80, 68, 255, 0.0), inset 0px 0px 0px 2px rgba(71, 30, 255, 0.0), 0px 0px 60px 1px rgba(55, 0, 185, 0.0), inset 0px 0px 10px 3px rgba(55, 0, 255, 0.0);
     }
 }
 
 .pag2 {
     min-width: 50%;
     padding: 0px;
-    margin: 50px 25% 0px;
+    margin: 40px 25% 0px;
     background-color: rgba(43, 43, 54, 0);
-    border-radius: 60px;
+    border-radius: 30px;
     z-index: 1;
 }
 
@@ -103,17 +103,17 @@
     transition-duration: 0.5s;
     min-width: 50%;
     padding: 0px;
-    margin: 50px 25% 0px;
+    margin: 40px 25% 0px;
     background-color: #ffffff;
-    border-radius: 60px;
+    border-radius: 30px;
     z-index: 1;
 }
 
 .border_style_solid_pag2 {
     border: 1px solid #ff1e44;
-    border-radius: 60px;
+    border-radius: 30px;
     z-index: 1;
-    animation: neon2 30s infinite;
+    animation: neon2 10s infinite;
 }
 
 body {
@@ -130,18 +130,18 @@ body {
 
 @keyframes neon2 {
     0% {
-        box-shadow: 0px 0px 0px 3px rgba(136, 39, 0, 0.514), inset 0px 0px 0px 2px rgba(255, 0, 76, 0.329), 0px 0px 60px 2px rgb(255, 0, 21, 0.397), inset 0px 0px 10px 2px rgb(255, 0, 0, 0.397);
+        box-shadow: 0px 0px 0px 3px rgba(136, 39, 0, 0.0), inset 0px 0px 0px 2px rgba(255, 0, 76, 0.0), 0px 0px 60px 2px rgba(255, 0, 21, 0.0), inset 0px 0px 10px 2px rgba(255, 0, 0, 0.0);
     }
     25% {
-        box-shadow: 0px 0px 0px 3px rgba(136, 39, 0, 0.514), inset 0px 0px 0px 2px rgba(255, 0, 76, 0.397), 0px 0px 60px 2px rgba(255, 0, 21, 0.452), inset 0px 0px 10px 2px rgba(255, 0, 0, 0.521);
+        box-shadow: 0px 0px 0px 3px rgba(136, 39, 0, 0.4), inset 0px 0px 0px 2px rgba(255, 0, 76, 0.4), 0px 0px 60px 2px rgba(255, 0, 21, 0.4), inset 0px 0px 10px 2px rgba(255, 0, 0, 0.4);
     }
     50% {
-        box-shadow: 0px 0px 0px 3px rgba(136, 39, 0, 0.5), inset 0px 0px 0px 2px rgba(255, 0, 76, 0.418), 0px 0px 60px 2px rgba(255, 0, 21, 0.397), inset 0px 0px 10px 2px rgba(255, 0, 0, 0.432);
+        box-shadow: 0px 0px 0px 3px rgba(136, 39, 0, 0.6), inset 0px 0px 0px 2px rgba(255, 0, 76, 0.6), 0px 0px 60px 2px rgba(255, 0, 21, 0.6), inset 0px 0px 10px 2px rgba(255, 0, 0, 0.6);
     }
     75% {
-        box-shadow: 0px 0px 0px 3px rgba(136, 39, 0, 0.527), inset 0px 0px 0px 2px rgba(255, 0, 76, 0.438), 0px 0px 60px 2px rgba(255, 0, 21, 0.445), inset 0px 0px 10px 2px rgba(255, 0, 0, 0.445);
+        box-shadow: 0px 0px 0px 3px rgba(136, 39, 0, 0.4), inset 0px 0px 0px 2px rgba(255, 0, 76, 0.4), 0px 0px 60px 2px rgba(255, 0, 21, 0.4), inset 0px 0px 10px 2px rgba(255, 0, 0, 0.4)
     }
     100% {
-        box-shadow: 0px 0px 0px 3px rgba(136, 39, 0, 0.445), inset 0px 0px 0px 2px rgba(255, 0, 76, 0.418), 0px 0px 60px 2px rgba(255, 0, 21, 0.363), inset 0px 0px 10px 2px rgba(255, 0, 0, 0.397);
+        box-shadow: 0px 0px 0px 3px rgba(136, 39, 0, 0.0), inset 0px 0px 0px 2px rgba(255, 0, 76, 0.0), 0px 0px 60px 2px rgba(255, 0, 21, 0.0), inset 0px 0px 10px 2px rgba(255, 0, 0, 0.0);
     }
 }
